@@ -1,0 +1,1 @@
+class EmptyDataError extends Error {}

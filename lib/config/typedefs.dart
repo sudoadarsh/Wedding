@@ -1,0 +1,1 @@
+typedef ReBuilder = void Function(void Function());
