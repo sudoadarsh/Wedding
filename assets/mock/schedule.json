@@ -1,0 +1,106 @@
+[
+  {
+    "id": "schedule_001",
+    "title": "The Wedding Day",
+    "startTime": "2024-12-18T10:00:00.000Z",
+    "events": [
+      {
+        "id": "event_001",
+        "emoji": "💍",
+        "colorCode": "FFFFC107",
+        "title": "Engagement Ceremony",
+        "description": "Exchange of rings to mark the beginning of the wedding.",
+        "startTime": "2024-12-18T10:30:00.000Z",
+        "endTime": "2024-12-18T12:00:00.000Z"
+      },
+      {
+        "id": "event_002",
+        "emoji": "🎉",
+        "colorCode": "FF673AB7",
+        "title": "Mehndi Ceremony",
+        "description": "Traditional henna application event for the bride and close family.",
+        "startTime": "2024-12-18T15:00:00.000Z",
+        "endTime": "2024-12-18T18:00:00.000Z"
+      },
+      {
+        "id": "event_003",
+        "emoji": "🥂",
+        "colorCode": "FFE91E63",
+        "title": "Cocktail Party",
+        "description": "Evening party with drinks and music for guests to mingle.",
+        "startTime": "2024-12-18T19:00:00.000Z",
+        "endTime": "2024-12-18T22:00:00.000Z"
+      },
+      {
+        "id": "event_004",
+        "emoji": "👰",
+        "colorCode": "FF009688",
+        "title": "Wedding Ceremony",
+        "description": "The main wedding event where the vows are exchanged.",
+        "startTime": "2024-12-19T10:00:00.000Z",
+        "endTime": "2024-12-19T12:00:00.000Z"
+      },
+      {
+        "id": "event_005",
+        "emoji": "🍽️",
+        "colorCode": "FF795548",
+        "title": "Reception",
+        "description": "Post-wedding celebration with dinner and entertainment.",
+        "startTime": "2024-12-19T18:00:00.000Z",
+        "endTime": "2024-12-19T22:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "schedule_002",
+    "title": "The Reception Day",
+    "startTime": "2024-12-19T16:00:00.000Z",
+    "events": [
+      {
+        "id": "event_001",
+        "emoji": "🎼",
+        "colorCode": "FF607D8B",
+        "title": "Welcome Drinks",
+        "description": "Guests arrive and enjoy drinks while mingling.",
+        "startTime": "2024-12-19T16:00:00.000Z",
+        "endTime": "2024-12-19T17:00:00.000Z"
+      },
+      {
+        "id": "event_002",
+        "emoji": "🍴",
+        "colorCode": "FF009688",
+        "title": "Dinner Buffet",
+        "description": "A lavish buffet with a variety of dishes for the guests to enjoy.",
+        "startTime": "2024-12-19T17:30:00.000Z",
+        "endTime": "2024-12-19T19:00:00.000Z"
+      },
+      {
+        "id": "event_003",
+        "emoji": "💃",
+        "colorCode": "FF3F51B5",
+        "title": "First Dance",
+        "description": "The newlyweds take the floor for their first dance together.",
+        "startTime": "2024-12-19T19:30:00.000Z",
+        "endTime": "2024-12-19T20:00:00.000Z"
+      },
+      {
+        "id": "event_004",
+        "emoji": "🎤",
+        "colorCode": "FFE91E63",
+        "title": "Toast and Speeches",
+        "description": "Friends and family make toasts and share speeches to celebrate the couple.",
+        "startTime": "2024-12-19T20:30:00.000Z",
+        "endTime": "2024-12-19T21:30:00.000Z"
+      },
+      {
+        "id": "event_005",
+        "emoji": "🎉",
+        "colorCode": "FF673AB7",
+        "title": "Dance Party",
+        "description": "The dance floor opens for all guests to enjoy the rest of the evening.",
+        "startTime": "2024-12-19T22:00:00.000Z",
+        "endTime": "2024-12-19T23:59:00.000Z"
+      }
+    ]
+  }
+]
